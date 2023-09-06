@@ -1,0 +1,50 @@
+body {
+    font-family:monospace;
+    background-color: #4ecca3;
+    color: #232931;
+}
+
+li{
+    font-size: larger;
+}
+
+.nome {
+    text-align: center;
+    font-size: 400%;
+}
+
+.headernome {
+    margin: 2% 15% 2% 15%;
+    text-align: center;
+}
+
+section {
+    margin: 0% 15% 5% 15%;
+}
+
+.limenu {
+    list-style: none;
+    display: inline;
+    padding: 1%;
+    border: solid;
+    border-color: #393e46;
+    background-color: #393e46;
+    color: #eeeeee;
+    font-size: smaller;
+}
+
+.linkmenu {
+    text-decoration: none;
+}
+
+.limenu:hover {
+    background-color: black;
+    border: none;
+}
+
+.titulo{
+    font-size: larger;
+}
+.linkcontato{
+    font-size: larger;
+}
